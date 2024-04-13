@@ -38,3 +38,4 @@ C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.pdb
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.genruntimeconfig.cache
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\ref\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.sourcelink.json

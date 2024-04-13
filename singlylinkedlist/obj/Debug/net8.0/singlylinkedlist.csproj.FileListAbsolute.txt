@@ -20,3 +20,4 @@ C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\D
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\refint\singlylinkedlist.dll
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.pdb
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\ref\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.sourcelink.json

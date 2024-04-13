@@ -20,3 +20,4 @@ C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\D
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\refint\doubleLinkedList.dll
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.pdb
 C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\ref\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.sourcelink.json
