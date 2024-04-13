@@ -1,0 +1,22 @@
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\bin\Debug\net8.0\singlylinkedlist.deps.json
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\bin\Debug\net8.0\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\bin\Debug\net8.0\singlylinkedlist.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\refint\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\singlylinkedlist\obj\Debug\net8.0\ref\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\bin\Debug\net8.0\singlylinkedlist.deps.json
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\bin\Debug\net8.0\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\bin\Debug\net8.0\singlylinkedlist.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\refint\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\singlylinkedlist.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\singlylinkedlist\obj\Debug\net8.0\ref\singlylinkedlist.dll

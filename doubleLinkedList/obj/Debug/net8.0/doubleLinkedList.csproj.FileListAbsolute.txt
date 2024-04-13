@@ -1,0 +1,22 @@
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\bin\Debug\net8.0\doubleLinkedList.deps.json
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\bin\Debug\net8.0\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\bin\Debug\net8.0\doubleLinkedList.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\refint\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\doubleLinkedList\obj\Debug\net8.0\ref\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\bin\Debug\net8.0\doubleLinkedList.deps.json
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\bin\Debug\net8.0\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\bin\Debug\net8.0\doubleLinkedList.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\refint\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\doubleLinkedList.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\doubleLinkedList\obj\Debug\net8.0\ref\doubleLinkedList.dll

@@ -1,0 +1,40 @@
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\console-app.exe
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\console-app.deps.json
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\console-app.runtimeconfig.json
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\console-app.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\refint\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.genruntimeconfig.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\ref\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\singlylinkedlist.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-app.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\obj\Debug\net8.0\console-.7E04E23D.Up2Date
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\DERSLER\dönem-6 dersler\veri-yapıları\btk-data-structs\console-app\bin\Debug\net8.0\doubleLinkedList.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\console-app.exe
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\console-app.deps.json
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\console-app.runtimeconfig.json
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\console-app.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\doubleLinkedList.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\singlylinkedlist.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\singlylinkedlist.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\bin\Debug\net8.0\doubleLinkedList.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-.7E04E23D.Up2Date
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\refint\console-app.dll
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.pdb
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\console-app.genruntimeconfig.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\console-app\obj\Debug\net8.0\ref\console-app.dll
