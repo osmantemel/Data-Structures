@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\singlylinkedlist\singlylinkedlist.csproj" />
     <ProjectReference Include="..\doubleLinkedList\doubleLinkedList.csproj" />
+    <ProjectReference Include="..\Stack\Stack.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

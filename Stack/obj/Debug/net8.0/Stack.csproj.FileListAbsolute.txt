@@ -1,0 +1,6 @@
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\Stack\obj\Debug\net8.0\Stack.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\DOCUMENTS\Projeler\Data-Structures\Stack\obj\Debug\net8.0\Stack.sourcelink.json

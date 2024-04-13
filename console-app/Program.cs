@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using doubleLinkedList;
 using singlylinkedlist;
+using Stack;
 
 class Program
 {
     static void Main(string[] args)
     {
-
-
+  
     }
 
     static void doubly()
