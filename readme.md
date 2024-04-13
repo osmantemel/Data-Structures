@@ -1,7 +1,6 @@
-# Bağlı Liste (Linked List) Implementasyonu
+# Bağlı Liste (Linked List) Implementasyonu ve Stack Yapısı
 
-Bu proje, C# programlama dili kullanılarak çift yönlü ve tek yönlü bağlı liste veri yapılarının basit bir implementasyonunu içermektedir. Bağlı liste, düğümlerin birbirine bağlı olduğu, lineer bir veri yapısıdır.
-
+Bu proje, C# programlama dili kullanılarak çift yönlü ve tek yönlü bağlı liste ve stack veri yapılarının  implementasyonunu içermektedir.
 
 
 ## Dosya Yapısı
