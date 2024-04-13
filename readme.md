@@ -48,7 +48,6 @@ class Program
     }
 }
 
-
 ## Özellikler
 
 ### Tek Yönlü Bağlı Liste
@@ -64,4 +63,3 @@ class Program
 - **Belirli Bir Indekse Eleman Ekleme:** Belirli bir indekse eleman ekleyebilirsiniz.
 - **Belirli Bir Indeksteki Elemanı Kaldırma:** Belirli bir indeksteki elemanı kaldırabilirsiniz.
 - **Liste Elemanlarını Dolaşma:** Çift yönlü bağlı listedeki elemanları döngü kullanarak dolaşabilirsiniz. Örneğin, `foreach` döngüsü kullanarak liste elemanlarını dolaşabilirsiniz.
-
